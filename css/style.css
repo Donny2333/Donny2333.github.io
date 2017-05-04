@@ -5,3 +5,11 @@
 ul, li {
     list-style: none;
 }
+
+.nav {
+    display: flex;
+}
+
+.nav > li {
+    display: inline-block;
+}

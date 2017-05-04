@@ -1,4 +1,21 @@
 {
   "name": "Donny2333.github.io",
-  "version": "0.0.1"
+  "version": "0.0.1",
+  "description": "welcome to visit my [website](https://donny2333.github.io/)",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Donny2333/Donny2333.github.io.git"
+  },
+  "author": "Donny",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Donny2333/Donny2333.github.io/issues"
+  },
+  "homepage": "https://github.com/Donny2333/Donny2333.github.io#readme",
+  "dependencies": {
+    "browser-sync": "^2.18.8",
+    "gulp": "^3.9.1",
+    "gulp-concat": "^2.6.1",
+    "gulp-uglify": "^2.1.2"
+  }
 }
